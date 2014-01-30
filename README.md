@@ -6,7 +6,7 @@ PACScrollView is a subclass on UIScrollView that allow you to set an image and b
 This class is available on iOS 4.0 to 7.1
 It add CALayer on scrollView with two images. The user is not confused with subViews on it scrollView
 
-PACScrollView demo
+![PACScrollView demo](https://github.com/claudot/PACScrollView/raw/master/PACScrollView.gif "Sample project animation")
 
 Changes
 
@@ -43,7 +43,8 @@ Then you just add to set the property (based on associated storage) backgroundIm
     [_pacScrollView setBackgroundImage:[UIImage imageNamed:@"bg.jpg"]];
     
 or
-	// In in code
+
+    // In in code
     PACBlurryScrollView *pacScrollView = [[PACBlurryScrollView alloc] initWithFrame:self.view.bounds];
     [pacScrollView setBackgroundImage:[UIImage imageNamed:@"bg.jpg"]];
     [self.view addSubview:pacScrollView];
