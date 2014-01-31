@@ -6,7 +6,7 @@ PACScrollView is a subclass on UIScrollView that allow you to set an image and b
 This class is available on iOS 4.0 to 7.1
 It add CALayer on scrollView with two images. The user is not confused with subViews on it scrollView
 
-![PACScrollView demo](https://github.com/claudot/PACScrollView/blob/master/PACScrollView.gif "Sample project animation")
+![PACScrollView demo](https://github.com/claudot/PACScrollView/blob/master/PACScrollView.gif)
 
 Changes
 
