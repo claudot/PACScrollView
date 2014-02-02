@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '4.0'
 
-  s.source       = { :git => "https://github.com/claudot/PACScrollView.git", :tag => "1.1.1" }
+  s.source       = { :git => "https://github.com/claudot/PACScrollView.git", :tag => "1.0" }
 
   s.source_files  = 'PACScrollView/**/*.{h,m}'
 
