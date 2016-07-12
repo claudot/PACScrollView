@@ -1,8 +1,6 @@
 PACScrollView
 =============
 
-![codebeat badge](https://codebeat.co/badges/e91a2d21-b20c-4b2b-a782-e0e2ecd65063)
-
 PACScrollView is a subclas of `UIScrollView` which allow you to add a background image, more or less blurred considering the scroll position.
 
 ![PACScrollView demo](https://github.com/claudot/PACScrollView/raw/master/PACScrollView.gif)
